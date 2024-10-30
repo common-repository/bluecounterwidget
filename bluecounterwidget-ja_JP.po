@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-08 10:20+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: blueCounterWidget.php:13
+msgid "오늘, 어제의 방문객 및 총 방문자를 위젯으로 보여주도록 하는 카운터."
+msgstr "今日と昨日の訪問者やすべて訪問者をウィゼッで見せるカウンター"
+
+#: blueCounterWidget.php:14
+msgid "오늘"
+msgstr "今日"
+
+#: blueCounterWidget.php:15
+msgid "어제"
+msgstr "昨日"
+
+#: blueCounterWidget.php:16
+msgid "타이틀"
+msgstr "タイトル"
+
+#: blueCounterWidget.php:17
+msgid "테두리 색"
+msgstr "ボーダーの色"
+
+#: blueCounterWidget.php:18
+msgid "배경 색"
+msgstr "背景色"
+
+#: blueCounterWidget.php:19
+msgid "폰트 색"
+msgstr "フォントの色"
+
+#: blueCounterWidget.php:19
+msgid "총방문자수"
+msgstr "総訪問者数"
+
+
+#: blueCounterWidget.php:19
+msgid "오늘방문자수"
+msgstr "今日の訪問者数"
+
+#: blueCounterWidget.php:19
+msgid "어제방문자수"
+msgstr "昨日の訪問者数"
